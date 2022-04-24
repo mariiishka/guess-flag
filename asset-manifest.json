@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/guess-flag/static/css/main.073c9b0a.css",
+    "main.js": "/guess-flag/static/js/main.60d0a9df.js",
+    "static/js/787.eb35f4b9.chunk.js": "/guess-flag/static/js/787.eb35f4b9.chunk.js",
+    "static/media/logo.svg": "/guess-flag/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/guess-flag/index.html",
+    "main.073c9b0a.css.map": "/guess-flag/static/css/main.073c9b0a.css.map",
+    "main.60d0a9df.js.map": "/guess-flag/static/js/main.60d0a9df.js.map",
+    "787.eb35f4b9.chunk.js.map": "/guess-flag/static/js/787.eb35f4b9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.60d0a9df.js"
+  ]
+}
